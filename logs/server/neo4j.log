@@ -1,0 +1,44 @@
+2025-02-04 08:04:13.116+0000 INFO  Logging config in use: Embedded default config 'default-user-logs.xml'
+2025-02-04 08:04:13.119+0000 INFO  Command expansion is explicitly enabled for configuration
+2025-02-04 08:04:13.120+0000 INFO  Starting...
+2025-02-04 08:04:13.624+0000 INFO  This instance is ServerId{64fb3ab2} (64fb3ab2-b71b-4c8a-9092-993314d28c9a)
+2025-02-04 08:04:14.309+0000 INFO  ======== Neo4j 5.25.1 ========
+2025-02-04 08:04:14.430+0000 INFO  GDS license file: null
+2025-02-04 08:04:14.431+0000 INFO  GDS license state: unlicensed
+2025-02-04 08:04:14.435+0000 INFO  Progress tracking: enabled
+2025-02-04 08:04:14.436+0000 INFO  Memory usage guard: minimum estimate
+2025-02-04 08:04:14.439+0000 INFO  Building Graph Data Science extension...
+2025-02-04 08:04:14.441+0000 INFO  Register Graph Data Science...
+2025-02-04 08:04:14.442+0000 INFO  Graph Data Science registered.
+2025-02-04 08:04:14.442+0000 INFO  Register Metrics...
+2025-02-04 08:04:14.443+0000 INFO  Metrics registered.
+2025-02-04 08:04:14.443+0000 INFO  Register Model Catalog...
+2025-02-04 08:04:14.443+0000 INFO  Model Catalog registered.
+2025-02-04 08:04:14.444+0000 INFO  Register Task Registry Factory...
+2025-02-04 08:04:14.444+0000 INFO  Task Registry Factory registered.
+2025-02-04 08:04:14.444+0000 INFO  Register Task Store...
+2025-02-04 08:04:14.445+0000 INFO  Task Store registered.
+2025-02-04 08:04:14.445+0000 INFO  Register User Log Registry Factory...
+2025-02-04 08:04:14.445+0000 INFO  User Log Registry Factory registered.
+2025-02-04 08:04:14.445+0000 INFO  Graph Data Science extension built.
+2025-02-04 08:04:14.446+0000 INFO  Building Graph Data Science Extras extension...
+2025-02-04 08:04:14.446+0000 INFO  Register Graph Data Science Extras...
+2025-02-04 08:04:14.446+0000 INFO  Graph Data Science Extras registered.
+2025-02-04 08:04:14.447+0000 INFO  Graph Data Science Extras extension built.
+2025-02-04 08:04:14.544+0000 INFO  GDS compatibility: for Neo4j 5.23 -- not available, for Neo4j 5.24 -- not available, for Neo4j 5.25 -- available, selected: Neo4j 5.25
+2025-02-04 08:04:29.812+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-02-04 08:04:30.240+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2025-02-04 08:04:30.240+0000 INFO  Remote interface available at http://localhost:7474/
+2025-02-04 08:04:30.243+0000 INFO  id: 963D477A612BD9D38F9523DB45F12BCD4F27C624C6748E910BFD9E7D138216F1
+2025-02-04 08:04:30.243+0000 INFO  name: system
+2025-02-04 08:04:30.243+0000 INFO  creationDate: 2025-02-04T08:04:15.46Z
+2025-02-04 08:04:30.243+0000 INFO  Started.
+2025-02-04 08:05:47.157+0000 WARN  [bolt-28] The client is unauthorized due to authentication failure.
+2025-02-04 08:05:47.489+0000 WARN  [bolt-29] The client is unauthorized due to authentication failure.
+2025-02-04 08:06:03.975+0000 WARN  [bolt-31] The client is unauthorized due to authentication failure.
+2025-02-04 08:06:04.223+0000 WARN  [bolt-32] The client has provided incorrect authentication details too many times in a row.
+2025-02-04 08:06:11.296+0000 WARN  [bolt-33] The client is unauthorized due to authentication failure.
+2025-02-04 08:06:11.637+0000 WARN  [bolt-34] The client is unauthorized due to authentication failure.
+2025-02-04 09:21:56.648+0000 INFO  Neo4j Server shutdown initiated by request
+2025-02-04 09:21:56.648+0000 INFO  Stopping...
+2025-02-04 09:22:03.209+0000 INFO  Stopped.
