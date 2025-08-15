@@ -1,0 +1,26 @@
+# environment
+.devcontainer/
+.dart_tool/
+env/
+.idea/
+.project
+.pytest_cache/
+__pycache__/
+.settings/
+tmp/
+venv/
+.vscode/
+
+# extensions
+*.log
+*.pyc
+
+# project
+*.csv*
+*.tar
+*.tar.gz
+build.sbt
+build.properties
+target/
+
+# exceptions
